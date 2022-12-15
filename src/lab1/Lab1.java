@@ -19,7 +19,6 @@ public class Lab1 {
         System.out.println("Hi, I'm Emtinan Aljubari");
         System.out.println("Hi, Iam Hind Alghamdi $-$");
         System.out.println("Hi, I'am Rahaf Hatrash");
-        
     }
     
 }
