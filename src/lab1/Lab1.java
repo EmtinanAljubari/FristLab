@@ -18,6 +18,8 @@ public class Lab1 {
         // TODO code application logic here
         System.out.println("Hi, I'm Emtinan Aljubari");
         System.out.println("Hi, Iam Hind Alghamdi $-$");
+        System.out.println("Hi, I'am Rahaf Hatrash");
+        
     }
     
 }
