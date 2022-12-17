@@ -20,6 +20,7 @@ public class Lab1 {
         System.out.println("Hi, Iam Hind Alghamdi $-$");
         System.out.println("Hi, I'am Rahaf Hatrash");
         System.out.println("Hi, I am Shahad Bahwainy");
+        System.out.println("Hello, I'm Nada Dehaithem");
     }
     
 }
